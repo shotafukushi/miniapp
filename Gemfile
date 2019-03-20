@@ -67,3 +67,13 @@ gem 'sprockets', '3.7.2'
 gem 'haml-rails'
 gem 'erb2haml'
 gem 'font-awesome-rails'
+
+gem 'devise'
+
+#deviseの日本語化用
+gem 'devise-i18n'
+gem 'font-awesome-rails'
+
+#Bootstrap4
+gem 'bootstrap'
+gem 'jquery-rails'
